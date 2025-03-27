@@ -1,0 +1,36 @@
+.container {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(164, 173, 185);
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.title {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.img {
+
+    height: 660px;
+
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: rgb(41, 129, 236);
+    color: white;
+    border: solid black 3px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #0097a7;
+}
